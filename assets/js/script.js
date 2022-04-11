@@ -7,5 +7,5 @@ const apiKey = "33c18137c7eeada489c911f5adf21546";
 
 
 //timezone for Day.js
-dayjs.extend(window.dajs_plugin_utc);
-daysjs.extend(window.dayjs_plugin_timezone);
+dayjs.extend(window.dayjs_plugin_utc);
+dayjs.extend(window.dayjs_plugin_timezone);
